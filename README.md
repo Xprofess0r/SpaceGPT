@@ -1,9 +1,6 @@
 # 🚀 SpaceGPT  
 ### Autonomous Agentic RAG System for Space Research Assistance
 
-**Developed at:** Space Technology Cell, ISRO & IIT Kharagpur  
-**Duration:** July 2025 – August 2025  
-
 ---
 
 ## 📌 Overview
