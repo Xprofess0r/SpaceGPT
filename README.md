@@ -166,10 +166,3 @@ Applied evaluation-driven LLM development
 
 Ensured reliability through full observability
 
-📄 Declaration
-This project was developed under the Space Technology Cell, ISRO & IIT Kharagpur during July–August 2025 as part of academic and research activities.
-
-⭐ Acknowledgements
-Space Technology Cell, ISRO & IIT Kharagpur
-
-Open-source communities of LangChain, LlamaIndex, and RAGAS
